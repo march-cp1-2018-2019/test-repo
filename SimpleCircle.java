@@ -2,7 +2,7 @@ package week13;
 
 /**
  * 
- * @author YOUR NAME HERE
+ * @author Holly Norton
  * @date 11/29/2018
  *
  */
